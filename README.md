@@ -21,7 +21,9 @@ de aplicações para banco de varejo, utilizando as linguagens e ferramentas `CO
 ###
 
 <div align="left">
-  
+
+  <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/cobol.jpg" height="40"/>
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/db2.png" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
