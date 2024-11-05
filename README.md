@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Trabalhando desde 2016 na área de tecnologia da informação, tenho atuado no desenvolvimento 
-de aplicação para banco de varejo, utilizando as tecnologias e ferramentas: COBOL, DB2, CICS, z/OS, JCL, TSO, QMF, SPUFI, Eclipse e Hexavision.</p>
+Trabalhando desde 2016 na área de tecnologia da informação, tenho atuado na análise e desenvolvimento 
+de aplicações para banco de varejo, utilizando as linguagens e ferramentas `COBOL`, `DB2`, `CICS`, `z/OS`, `JCL`, `TSO`, `QMF`, `SPUFI`, `Eclipse` e `Hexavision`.
 
 ###
 
@@ -28,6 +28,9 @@ de aplicação para banco de varejo, utilizando as tecnologias e ferramentas: CO
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  
 </div>
 
 ###
