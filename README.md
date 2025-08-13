@@ -2,8 +2,8 @@
 
 ###
 
-Trabalhando desde 2016 na área de tecnologia da informação, tenho atuado na análise e desenvolvimento 
-de aplicações para banco de varejo, utilizando as linguagens e ferramentas `COBOL`, `DB2`, `CICS`, `z/OS`, `JCL`, `TSO`, `QMF`, `SPUFI`, `Eclipse` e `Hexavision`.
+Atuando na área de Tecnologia da Informação desde 2016, tenho experiência na análise e desenvolvimento de aplicações 
+voltadas para o setor bancário (varejo), utilizando tecnologias e ferramentas como `COBOL`, `DB2`, `CICS`, `z/OS`, `JCL`, `TSO`, `QMF`, `SPUFI`, e `Eclipse`.
 
 ###
 
