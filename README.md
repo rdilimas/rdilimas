@@ -22,17 +22,17 @@ voltadas para o setor bancário (varejo), utilizando tecnologias e ferramentas c
 
 <div align="left">
 
-  <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/cobol.jpg" height="40"/>
+  <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/cobol.jpg" height="45"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/db2.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/rdilimas/rdilimas/refs/heads/main/images/db2.png" height="45"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   
             
   
